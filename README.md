@@ -1,6 +1,7 @@
 # SBR-Merlin
  
-**Source:** Building Session-Based Recommendation Models with Merlin [DLIT51219] <br/>
+**Source:** <br/>
+Building Session-Based Recommendation Models with Merlin [DLIT51219] <br/>
 
 Notes: <br/>
 - This repo contains the lecture from Nvidia DLI (Deep Learning Institute). <br/>
@@ -30,3 +31,6 @@ The tutorial consists of 5 notebooks: <br>
 - 04-Next-item-prediction-with-LSTM
 - 05-Next-item-prediction-with-Transformers
 
+**Appendix:** <br>
+> Booking.com ml-dataset-mdt <br>
+> https://github.com/bookingcom/ml-dataset-mdt <br>
